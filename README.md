@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋 I'm Guillermo Chilet
 
-<!--
-**chiletlab/chiletlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on scalable web applications.
 
-Here are some ideas to get you started:
+I enjoy building clean, user-focused applications while continuously improving my backend development and software architecture skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Backend
+- C#
+- .NET / ASP.NET Core
+- Java
+- Spring Boot
+- REST APIs
+
+### Frontend
+- Angular
+- React
+- JavaScript
+- TypeScript
+
+### Mobile
+- Kotlin
+- Android SDK
+
+### Databases
+- SQL Server
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Postman
+
+### Practices
+- Clean Architecture
+- RESTful API Design
+- Agile Development (Scrum)
+
+---
+
+## 🌱 Currently Learning
+- Cloud Fundamentals
+- Scalable Architectures
+- DevOps Basics
+
+---
+
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/guillermochilet](https://www.linkedin.com/in/guillermochilet)
+- Email: [gfchilet@gmail.com](mailto:gfchilet@gmail.com)
